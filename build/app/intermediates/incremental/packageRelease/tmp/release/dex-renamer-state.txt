@@ -1,0 +1,4 @@
+#Sun Aug 07 00:29:02 MYT 2022
+base.0=/Users/suliman/BMI/build/app/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

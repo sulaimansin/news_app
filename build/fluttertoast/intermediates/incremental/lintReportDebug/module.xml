@@ -1,0 +1,26 @@
+<lint-module
+    format="1"
+    dir="/Applications/flutter/.pub-cache/hosted/pub.dartlang.org/fluttertoast-8.0.9/android"
+    name=":fluttertoast"
+    type="LIBRARY"
+    maven="com.example.FlutterToast:fluttertoast:"
+    gradle="7.1.2"
+    buildFolder="/Users/suliman/BMI/build/fluttertoast"
+    bootClassPath="/Users/suliman/Library/Android/sdk/platforms/android-29/android.jar:/Users/suliman/Library/Android/sdk/build-tools/30.0.3/core-lambda-stubs.jar"
+    javaSourceLevel="1.8"
+    compileTarget="android-29"
+    neverShrinking="true">
+  <lintOptions
+      disable="InvalidPackage"
+      abortOnError="true"
+      absolutePaths="true"
+      checkReleaseBuilds="true"
+      explainIssues="true">
+    <severities>
+      <severity
+        id="InvalidPackage"
+        severity="IGNORE" />
+    </severities>
+  </lintOptions>
+  <variant name="debug"/>
+</lint-module>

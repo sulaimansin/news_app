@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<incidents format="6" by="lint 7.1.2" type="incidents">
+
+    <incident
+        id="ViewConstructor"
+        severity="warning"
+        message="Custom view `ThreadedInputConnectionProxyAdapterView` is missing constructor used by tools: `(Context)` or `(Context,AttributeSet)` or `(Context,AttributeSet,int)`">
+        <location
+            file="${:webview_flutter_android*debug*sourceProvider*0*javaDir*0}/io/flutter/plugins/webviewflutter/ThreadedInputConnectionProxyAdapterView.java"
+            line="27"
+            column="13"
+            startOffset="1255"
+            endLine="27"
+            endColumn="52"
+            endOffset="1294"/>
+    </incident>
+
+    <incident
+        id="ViewConstructor"
+        severity="warning"
+        message="Custom view `InputAwareWebView` is missing constructor used by tools: `(Context)` or `(Context,AttributeSet)` or `(Context,AttributeSet,int)`">
+        <location
+            file="${:webview_flutter_android*debug*sourceProvider*0*javaDir*0}/io/flutter/plugins/webviewflutter/InputAwareWebView.java"
+            line="28"
+            column="7"
+            startOffset="996"
+            endLine="28"
+            endColumn="24"
+            endOffset="1013"/>
+    </incident>
+
+    <incident
+        id="AndroidGradlePluginVersion"
+        severity="warning"
+        message="A newer version of com.android.tools.build:gradle than 7.2.1 is available: 7.2.2">
+        <fix-replace
+            description="Change to 7.2.2"
+            family="Update versions"
+            robot="true"
+            independent="true"
+            oldString="7.2.1"
+            replacement="7.2.2"/>
+        <location
+            file="${:webview_flutter_android*projectDir}/build.gradle"
+            line="11"
+            column="9"
+            startOffset="173"
+            endLine="11"
+            endColumn="57"
+            endOffset="221"/>
+    </incident>
+
+</incidents>

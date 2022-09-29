@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/suliman/BMI/build/webview_flutter_android/intermediates/merged_res/profile/drawable/notification_bg_low.xml",
+        "source": "/Users/suliman/.gradle/caches/transforms-3/596fe6ae3ae7297c6162ef095e1b5878/transformed/core-1.6.0/res/drawable/notification_bg_low.xml"
+    },
+    {
+        "merged": "/Users/suliman/BMI/build/webview_flutter_android/intermediates/merged_res/profile/drawable/notification_tile_bg.xml",
+        "source": "/Users/suliman/.gradle/caches/transforms-3/596fe6ae3ae7297c6162ef095e1b5878/transformed/core-1.6.0/res/drawable/notification_tile_bg.xml"
+    },
+    {
+        "merged": "/Users/suliman/BMI/build/webview_flutter_android/intermediates/merged_res/profile/drawable/notification_icon_background.xml",
+        "source": "/Users/suliman/.gradle/caches/transforms-3/596fe6ae3ae7297c6162ef095e1b5878/transformed/core-1.6.0/res/drawable/notification_icon_background.xml"
+    },
+    {
+        "merged": "/Users/suliman/BMI/build/webview_flutter_android/intermediates/merged_res/profile/drawable/notification_bg.xml",
+        "source": "/Users/suliman/.gradle/caches/transforms-3/596fe6ae3ae7297c6162ef095e1b5878/transformed/core-1.6.0/res/drawable/notification_bg.xml"
+    }
+]

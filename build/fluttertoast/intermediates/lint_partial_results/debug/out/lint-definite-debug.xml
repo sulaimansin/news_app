@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<incidents format="6" by="lint 7.1.2" type="incidents">
+
+    <incident
+        id="AndroidGradlePluginVersion"
+        severity="warning"
+        message="A newer version of com.android.tools.build:gradle than 4.1.0 is available: 7.2.2. (There is also a newer version of 4.1.𝑥 available, if upgrading to 7.2.2 is difficult: 4.1.3)">
+        <fix-alternatives>
+            <fix-replace
+                description="Change to 7.2.2"
+                family="Update versions"
+                oldString="4.1.0"
+                replacement="7.2.2"/>
+            <fix-replace
+                description="Change to 4.1.3"
+                family="Update versions"
+                robot="true"
+                independent="true"
+                oldString="4.1.0"
+                replacement="4.1.3"/>
+        </fix-alternatives>
+        <location
+            file="${:fluttertoast*projectDir}/build.gradle"
+            line="12"
+            column="9"
+            startOffset="198"
+            endLine="12"
+            endColumn="57"
+            endOffset="246"/>
+    </incident>
+
+    <incident
+        id="InflateParams"
+        severity="warning"
+        message="Avoid passing `null` as the view root (needed to resolve layout parameters on the inflated layout&apos;s root element)">
+        <location
+            file="${:fluttertoast*debug*sourceProvider*0*javaDir*1}/io/github/ponnamkarthik/toast/fluttertoast/MethodCallHandlerImpl.kt"
+            line="50"
+            column="143"
+            startOffset="1959"
+            endLine="50"
+            endColumn="147"
+            endOffset="1963"/>
+    </incident>
+
+</incidents>

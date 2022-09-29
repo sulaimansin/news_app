@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="io.flutter.plugins.webviewflutter.WebViewTest" tests="28" skipped="0" failures="0" errors="0" timestamp="2022-08-06T16:29:45" hostname="sulimans-MacBook-Pro.local" time="0.36">
+  <properties/>
+  <testcase name="loadDataWithBaseUrlAndNullValues" classname="io.flutter.plugins.webviewflutter.WebViewTest" time="0.094"/>
+  <testcase name="loadDataWithBaseUrl" classname="io.flutter.plugins.webviewflutter.WebViewTest" time="0.003"/>
+  <testcase name="getScrollX" classname="io.flutter.plugins.webviewflutter.WebViewTest" time="0.003"/>
+  <testcase name="getScrollY" classname="io.flutter.plugins.webviewflutter.WebViewTest" time="0.002"/>
+  <testcase name="getUrl" classname="io.flutter.plugins.webviewflutter.WebViewTest" time="0.002"/>
+  <testcase name="goBack" classname="io.flutter.plugins.webviewflutter.WebViewTest" time="0.002"/>
+  <testcase name="canGoForward" classname="io.flutter.plugins.webviewflutter.WebViewTest" time="0.002"/>
+  <testcase name="reload" classname="io.flutter.plugins.webviewflutter.WebViewTest" time="0.003"/>
+  <testcase name="clearCache" classname="io.flutter.plugins.webviewflutter.WebViewTest" time="0.002"/>
+  <testcase name="loadDataWithNullValues" classname="io.flutter.plugins.webviewflutter.WebViewTest" time="0.003"/>
+  <testcase name="releaseInputAwareWebView" classname="io.flutter.plugins.webviewflutter.WebViewTest" time="0.166"/>
+  <testcase name="scrollBy" classname="io.flutter.plugins.webviewflutter.WebViewTest" time="0.003"/>
+  <testcase name="scrollTo" classname="io.flutter.plugins.webviewflutter.WebViewTest" time="0.003"/>
+  <testcase name="postUrl" classname="io.flutter.plugins.webviewflutter.WebViewTest" time="0.003"/>
+  <testcase name="goForward" classname="io.flutter.plugins.webviewflutter.WebViewTest" time="0.002"/>
+  <testcase name="canGoBack" classname="io.flutter.plugins.webviewflutter.WebViewTest" time="0.002"/>
+  <testcase name="addJavaScriptChannel" classname="io.flutter.plugins.webviewflutter.WebViewTest" time="0.004"/>
+  <testcase name="loadUrl" classname="io.flutter.plugins.webviewflutter.WebViewTest" time="0.004"/>
+  <testcase name="releaseWebViewDependents" classname="io.flutter.plugins.webviewflutter.WebViewTest" time="0.005"/>
+  <testcase name="setWebViewClient" classname="io.flutter.plugins.webviewflutter.WebViewTest" time="0.004"/>
+  <testcase name="evaluateJavaScript" classname="io.flutter.plugins.webviewflutter.WebViewTest" time="0.004"/>
+  <testcase name="releaseInputAwareWebViewDependents" classname="io.flutter.plugins.webviewflutter.WebViewTest" time="0.007"/>
+  <testcase name="removeJavaScriptChannel" classname="io.flutter.plugins.webviewflutter.WebViewTest" time="0.003"/>
+  <testcase name="loadData" classname="io.flutter.plugins.webviewflutter.WebViewTest" time="0.003"/>
+  <testcase name="setWebChromeClient" classname="io.flutter.plugins.webviewflutter.WebViewTest" time="0.003"/>
+  <testcase name="getTitle" classname="io.flutter.plugins.webviewflutter.WebViewTest" time="0.004"/>
+  <testcase name="setDownloadListener" classname="io.flutter.plugins.webviewflutter.WebViewTest" time="0.015"/>
+  <testcase name="releaseWebView" classname="io.flutter.plugins.webviewflutter.WebViewTest" time="0.005"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

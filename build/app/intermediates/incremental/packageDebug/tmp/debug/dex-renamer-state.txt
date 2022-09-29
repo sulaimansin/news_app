@@ -1,0 +1,4 @@
+#Sun Aug 07 04:42:11 MYT 2022
+base.0=/Users/suliman/BMI/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

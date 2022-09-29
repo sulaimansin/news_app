@@ -1,0 +1,29 @@
+<lint-module
+    format="1"
+    dir="/Applications/flutter/.pub-cache/hosted/pub.dartlang.org/path_provider_android-2.0.16/android"
+    name=":path_provider_android"
+    type="LIBRARY"
+    maven="io.flutter.plugins.pathprovider:path_provider_android:"
+    gradle="7.1.2"
+    buildFolder="/Users/suliman/BMI/build/path_provider_android"
+    bootClassPath="/Users/suliman/Library/Android/sdk/platforms/android-31/android.jar:/Users/suliman/Library/Android/sdk/build-tools/30.0.3/core-lambda-stubs.jar"
+    javaSourceLevel="1.8"
+    compileTarget="android-31"
+    neverShrinking="true">
+  <lintOptions
+      disable="InvalidPackage,GradleDependency"
+      abortOnError="true"
+      absolutePaths="true"
+      checkReleaseBuilds="true"
+      explainIssues="true">
+    <severities>
+      <severity
+        id="GradleDependency"
+        severity="IGNORE" />
+      <severity
+        id="InvalidPackage"
+        severity="IGNORE" />
+    </severities>
+  </lintOptions>
+  <variant name="debug"/>
+</lint-module>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="io.flutter.plugins.webviewflutter.WebSettingsTest" tests="11" skipped="0" failures="0" errors="0" timestamp="2022-08-06T16:29:44" hostname="sulimans-MacBook-Pro.local" time="0.175">
+  <properties/>
+  <testcase name="setUseWideViewPort" classname="io.flutter.plugins.webviewflutter.WebSettingsTest" time="0.13"/>
+  <testcase name="setJavaScriptEnabled" classname="io.flutter.plugins.webviewflutter.WebSettingsTest" time="0.005"/>
+  <testcase name="setDomStorageEnabled" classname="io.flutter.plugins.webviewflutter.WebSettingsTest" time="0.004"/>
+  <testcase name="setUserAgentString" classname="io.flutter.plugins.webviewflutter.WebSettingsTest" time="0.004"/>
+  <testcase name="setDisplayZoomControls" classname="io.flutter.plugins.webviewflutter.WebSettingsTest" time="0.004"/>
+  <testcase name="setSupportZoom" classname="io.flutter.plugins.webviewflutter.WebSettingsTest" time="0.004"/>
+  <testcase name="setSupportMultipleWindows" classname="io.flutter.plugins.webviewflutter.WebSettingsTest" time="0.003"/>
+  <testcase name="setJavaScriptCanOpenWindowsAutomatically" classname="io.flutter.plugins.webviewflutter.WebSettingsTest" time="0.005"/>
+  <testcase name="setBuiltInZoomControls" classname="io.flutter.plugins.webviewflutter.WebSettingsTest" time="0.005"/>
+  <testcase name="setMediaPlaybackRequiresUserGesture" classname="io.flutter.plugins.webviewflutter.WebSettingsTest" time="0.004"/>
+  <testcase name="setLoadWithOverviewMode" classname="io.flutter.plugins.webviewflutter.WebSettingsTest" time="0.003"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

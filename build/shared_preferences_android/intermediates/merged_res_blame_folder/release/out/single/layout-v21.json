@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/suliman/BMI/build/shared_preferences_android/intermediates/merged_res/release/layout-v21/notification_template_custom_big.xml",
+        "source": "/Users/suliman/.gradle/caches/transforms-3/596fe6ae3ae7297c6162ef095e1b5878/transformed/core-1.6.0/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/Users/suliman/BMI/build/shared_preferences_android/intermediates/merged_res/release/layout-v21/notification_action.xml",
+        "source": "/Users/suliman/.gradle/caches/transforms-3/596fe6ae3ae7297c6162ef095e1b5878/transformed/core-1.6.0/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/Users/suliman/BMI/build/shared_preferences_android/intermediates/merged_res/release/layout-v21/notification_template_icon_group.xml",
+        "source": "/Users/suliman/.gradle/caches/transforms-3/596fe6ae3ae7297c6162ef095e1b5878/transformed/core-1.6.0/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/suliman/BMI/build/shared_preferences_android/intermediates/merged_res/release/layout-v21/notification_action_tombstone.xml",
+        "source": "/Users/suliman/.gradle/caches/transforms-3/596fe6ae3ae7297c6162ef095e1b5878/transformed/core-1.6.0/res/layout-v21/notification_action_tombstone.xml"
+    }
+]
